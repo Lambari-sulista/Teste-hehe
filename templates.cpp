@@ -39,6 +39,6 @@ int main() {
 
     c1.exibir(); // Saída: 3.14 : 2
     c2.exibir(); // Saída: bob : 10
-
+    std::cout << "bom dia" << std::endl;
     return 0;
 }
